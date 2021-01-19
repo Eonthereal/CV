@@ -17,7 +17,7 @@ body {
 }
 
 .left-section {
-  background: site_url("https://github.com/Eonthereal/CV/blob/main/img/img.jpg");
+  background: site_url("https://raw.githubusercontent.com/Eonthereal/CV/main/img/img.jpg");
   height: 100vh;
   width: 100vh;
   grid-area: left-section;
