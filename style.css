@@ -7,7 +7,7 @@
 body {
   font-family: "Open Sans";
   font-size: larger;
-  background: url("background2.jpg");
+  background: url("https://raw.githubusercontent.com/Eonthereal/CV/main/img/background2.jpg");
 }
 
 .grid-container {
@@ -32,7 +32,7 @@ body {
 h1,
 h2 {
   font-family: "Roboto";
-  color: red;
+  color: #423c88;
 }
 
 .basic-information {
