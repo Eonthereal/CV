@@ -7,7 +7,7 @@
 body {
   font-family: "Open Sans";
   font-size: larger;
-  background: url(./img/background2.jpg);
+  background: url(../img/background2.jpg);
 }
 
 .grid-container {
@@ -17,7 +17,7 @@ body {
 }
 
 .left-section {
-  background: url("./img/img.jpg");
+  background: url("../img/img.jpg");
   height: 100vh;
   width: 100vh;
   grid-area: left-section;
