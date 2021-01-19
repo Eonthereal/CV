@@ -17,7 +17,7 @@ body {
 }
 
 .left-section {
-  background: url("/img/img.jpg");
+  background: url("CV/img/img.jpg");
   height: 100vh;
   width: 100vh;
   grid-area: left-section;
