@@ -52,11 +52,11 @@ h2 {
   color: #cec047;
 }
 
+.skill-titles{
+  display: inline-block;
+  width: 100px;
+}
 
-
-/* h2 {
-  color: #026cf6;
-} */
 
 .dash {
   height: 5px;
@@ -71,8 +71,28 @@ li {
   margin-bottom: 15px;
 }
 
+.bio-list li{
+  list-style: inside;
+}
+
+.education-list li{
+  list-style: inside;
+}
+
+.education-list span{
+  font-weight: bold;
+}
+
+.experience-list li{
+  list-style: inside;
+}
+
 .educational-background {
   margin-top: 20px;
+}
+
+.experience-list span{
+  font-weight: bold;
 }
 
 .accounts {
