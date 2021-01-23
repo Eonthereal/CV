@@ -118,6 +118,7 @@ li {
   top: 1px;
 }
 
+/* fa-git-square is not active atm */
 .fa-git-square{
     opacity: 0.3;
 }
@@ -126,6 +127,16 @@ li {
     cursor: pointer;
     position: relative;
     top: -4px;
+}
+
+.fa-github-square{
+  opacity: 0.3;
+}
+.fa-github-square:hover{
+  opacity: 1.0;
+  cursor: pointer;
+  position: relative;
+  top: -4px;
 }
 
 .fa-git-square:active{
